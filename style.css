@@ -40,13 +40,6 @@ header {
     padding: 1px;
 }
 
-nav a {
-    text-decoration: none;
-    color: var(--bg-color);
-    margin: 0 2rem 1rem 0rem;
-    font-size: 1.2rem;
-}
-
 nav a:hover {
     text-decoration: underline;
     transform: scale(0.90);
